@@ -1,0 +1,27 @@
+﻿body 
+{
+    background-image: url(bakerywallpaper.jpg);
+    background-size: cover;
+}
+.content {
+    height: 641px;
+    width: 800px;
+    background-color: rgba(251, 181, 99, 0.72);
+    font-family: Rockwell;
+    margin: auto;
+}
+.cakes
+{
+    float:left;
+    background-color: rgba(255, 232, 143, 0.72);
+}
+.pretzels
+{
+    float:left;
+    background-color: rgba(255, 184, 72, 0.72);
+}
+.cookies
+{
+    float:left;
+    background-color: rgba(255, 153, 77, 0.72);
+}
